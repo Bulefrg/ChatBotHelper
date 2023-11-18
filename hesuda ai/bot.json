@@ -1,0 +1,218 @@
+[
+{
+"response_type": "conversation",
+"user_input": ["tell", "me", "about","you", "yourself"],
+"bot_response": "I'm just a computer program here to help answer your questions and engage in conversation. What would you like to talk about?",
+"required_words": ["tell","who", "about", "are","yourself","you"]
+},
+  {
+"response_type": "conversation",
+"user_input": ["thank you", "thanks","for", "help"],
+"bot_response": "You`re welcome",
+"required_words": ["thank you", "thanks","for", "help"]
+},
+{
+"response_type": "conversation",
+"user_input": ["what's", "your", "favorite", "subject"],
+"bot_response": "I don't have preferences, but I enjoy discussing a wide range of topics. Is there a specific subject you're interested in?",
+"required_words": ["favorite", "subject"]
+},
+{
+"response_type": "conversation",
+"user_input": ["share", "a", "fun", "fact"],
+"bot_response": "Sure, here's a fun fact: Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!",
+"required_words": ["share", "fun", "fact"]
+},
+{
+"response_type": "conversation",
+"user_input": ["what", "do", "you", "think", "about", "technology"],
+"bot_response": "I don't have personal opinions, but I can provide information and answer questions about technology. What aspect of technology are you curious about?",
+"required_words": ["think", "about", "technology"]
+},
+{
+"response_type": "conversation",
+"user_input": ["share", "a", "quote"],
+"bot_response": "Here's a quote: 'The only limit to our realization of tomorrow will be our doubts of today.' - Franklin D. Roosevelt. What do you think of it?",
+"required_words": ["share", "quote"]
+},
+{
+"response_type": "conversation",
+"user_input": ["talk", "to", "me", "about", "travel"],
+"bot_response": "Traveling can be a wonderful experience. Do you have a favorite travel destination or a place you'd like to visit?",
+"required_words": ["talk", "about", "travel"]
+},
+{
+"response_type": "conversation",
+"user_input": ["share", "a", "personal", "experience"],
+"bot_response": "I don't have personal experiences, but I can share interesting stories or information. Is there a specific type of experience you're interested in?",
+"required_words": ["share", "personal", "experience"]
+},
+{
+"response_type": "conversation",
+"user_input": ["ask", "me", "a", "question"],
+"bot_response": "Sure! What's your favorite hobby or activity that you enjoy in your free time?",
+"required_words": ["ask", "me", "question"]
+},
+{
+"response_type": "conversation",
+"user_input": ["discuss", "current", "events"],
+"bot_response": "Current events cover a wide range of topics. Is there a specific news story or category you're interested in discussing?",
+"required_words": ["discuss", "current", "events"]
+},
+{
+"response_type": "conversation",
+"user_input": ["share", "a", "joke", "with", "me"],
+"bot_response": "Sure, here's a joke: Why did the computer catch a cold? It had a bad cache! Do you enjoy computer-related humor?",
+"required_words": ["share", "joke", "with", "me"]
+},
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "learn", "code", "coding", "apps"],
+    "bot_response": "Start by typing: 'How to learn coding' on Google.",
+    "required_words": ["learn", "code"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["refund", "how", "can", "I", "get"],
+    "bot_response": "We don't offer refunds for free education.",
+    "required_words": ["refund", "how", "can", "I", "get"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "are", "you"],
+    "bot_response": "I'm great! Thanks for asking.",
+    "required_words": ["how", "are", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "the", "meaning", "of", "life"],
+    "bot_response": "The meaning of life is a philosophical question. Some say it's to find happiness, others say it's to seek knowledge.",
+    "required_words": ["meaning", "of", "life"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["tell", "me", "a", "joke"],
+    "bot_response": "Why don't scientists trust atoms? Because they make up everything!",
+    "required_words": ["tell", "joke"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["recommend", "a", "book"],
+    "bot_response": "I recommend 'The Hitchhiker's Guide to the Galaxy' by Douglas Adams. It's a hilarious science fiction classic.",
+    "required_words": ["recommend", "book"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "your", "favorite", "color"],
+    "bot_response": "I don't have a favorite color, but I appreciate the beauty of all colors!",
+    "required_words": ["favorite", "color"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "stay", "motivated", "while", "learning"],
+    "bot_response": "Staying motivated is key! Set clear goals, take breaks, and celebrate small victories.",
+    "required_words": ["stay", "motivated", "learning"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["best", "programming", "language", "for", "beginners"],
+    "bot_response": "Python is often recommended for beginners due to its readability and versatility.",
+    "required_words": ["best", "for","programming", "language", "beginners"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["best", "programming", "language"],
+    "bot_response": "Python is often recommended for beginners and pro due to its readability and versatility.",
+    "required_words": ["best", "for","programming", "language"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["tell", "me", "about", "artificial", "intelligence"],
+    "bot_response": "Artificial Intelligence is a field of computer science that focuses on creating intelligent machines capable of learning and problem-solving.",
+    "required_words": ["artificial", "intelligence"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "does", "machine", "learning", "work"],
+    "bot_response": "Machine learning enables computers to learn from data and improve their performance over time without being explicitly programmed.",
+    "required_words": ["machine", "learning"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "are", "the", "benefits", "of", "exercise"],
+    "bot_response": "Exercise has numerous benefits, including improved physical health, mood, and cognitive function.",
+    "required_words": ["benefits", "exercise"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "overcome", "procrastination"],
+    "bot_response": "To overcome procrastination, break tasks into smaller steps, set deadlines, and eliminate distractions.",
+    "required_words": ["overcome", "procrastination"]
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["what's up", "yo", "howdy","sup"],
+    "bot_response": "Hey! Not much, just chatting. How about you?",
+    "required_words": ["yo","howdy","what's up","sup"]
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["morning", "good", "afternoon", "evening"],
+    "bot_response": "Good [morning/afternoon/evening]! How can I assist you today?",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["sup", "hey bot", "hi there"],
+    "bot_response": "Not much, just here and ready to chat. What's on your mind?",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["weather", "like", "today"],
+    "bot_response": "I'm not a meteorologist, but you can check the weather on a reliable website or app!",
+    "required_words": ["weather", "today"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "do", "I", "start", "a", "blog"],
+    "bot_response": "Starting a blog? Choose a niche, pick a platform, and start creating content you're passionate about!",
+    "required_words": ["start", "blog"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["recipe", "for", "chocolate", "cake"],
+    "bot_response": "For a delicious chocolate cake, mix flour, cocoa, sugar, eggs, butter, and baking powder. Bake until it's just right!",
+    "required_words": ["recipe", "chocolate", "cake"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what's", "new", "in", "tech"],
+    "bot_response": "In tech news, advancements in AI, blockchain, and quantum computing are making waves. Anything specific you're interested in?",
+    "required_words": ["new", "tech"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "improve", "communication", "skills"],
+    "bot_response": "Improving communication skills? Practice active listening, be clear and concise, and seek feedback to enhance your skills.",
+    "required_words": ["improve", "communication", "skills"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["movie", "recommendations"],
+    "bot_response": "If you like [genre], you might enjoy [movie]. It has great reviews!",
+    "required_words": ["movie", "recommendations"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "create", "a", "resume"],
+    "bot_response": "To create a resume, list your education, experience, skills, and tailor it to the job you're applying for. Don't forget to proofread!",
+    "required_words": ["create", "resume"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["space", "exploration", "latest", "discoveries"],
+    "bot_response": "Space exploration is fascinating! Recently, scientists discovered [latest discovery]. Exciting times for space enthusiasts!",
+    "required_words": ["space", "exploration", "latest", "discoveries"]
+  }
+]
